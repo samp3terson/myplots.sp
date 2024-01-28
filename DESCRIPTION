@@ -1,12 +1,13 @@
 Package: myplots.sp
-Title: What the Package Does (One Line, Title Case)
+Title: This Package Contains Useful Plotting Functions (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Samuel", "Peterson", , "p3tey5@gmail.com", role = c("aut", "cre"))
+Description: This package contains some very useful graphing functions. It is as extensive as other packages, but should be useful to get someone started.It is no ggplot2, but does build off of that.
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.0
+Depends:
+    R (>= 3.5),
+    ggplot2
