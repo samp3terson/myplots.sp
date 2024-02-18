@@ -3,7 +3,7 @@ Title: This Package Contains Useful Plotting Functions (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     person("Samuel", "Peterson", , "p3tey5@gmail.com", role = c("aut", "cre"))
-Description: This package contains some very useful graphing functions. It is as extensive as other packages, but should be useful to get someone started.It is no ggplot2, but does build off of that.
+Description: This package contains some very useful graphing functions. It is not as extensive as other packages, but should be useful to get someone started. It is no ggplot2, but does build off of that. It contains 4 separate plotting functions.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
